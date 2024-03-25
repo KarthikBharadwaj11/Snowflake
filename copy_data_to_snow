@@ -18,7 +18,7 @@ from snowflake.snowpark.functions import substr
 
 from snowflake.snowpark.types import IntegerType, StringType, StructField, StructType, DateType
 
-# Replace the below connection_parameters with your respective snowflake account,user name and password
+
 connection_parameters = {"account":"",
 "user":"karthikbhs30",
 "password": "",
